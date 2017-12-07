@@ -1,4 +1,5 @@
-# Massive Run (Copyright Dendi Suhubdy, 2017)
+# Massive Run 
+## Copyright Dendi Suhubdy, 2017
 SLURM unlimited loop to submit a job
 
 the bash script was created for the lab environment at MILA
