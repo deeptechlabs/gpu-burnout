@@ -1,10 +1,10 @@
 #!/bin/bash
 
-	clear
-	echo "-----------------------------------------------------"
-	echo "	           MULTIPLE ON SLURM CLUSTER               "
-	echo "-----------------------------------------------------"
-	echo "starting infinite loop for submitting jobs"
+clear
+echo "-----------------------------------------------------"
+echo "	           MULTIPLE ON SLURM CLUSTER               "
+echo "-----------------------------------------------------"
+echo "starting infinite loop for submitting jobs"
 
 while :
 do
